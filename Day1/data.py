@@ -1,5 +1,7 @@
-# Day 1: Data Separation
-# Storing our factory parameters in clean Python dictionaries
+# Day 1: Data 
+
+products = ['Chocolate Cake', 'Vanila Cake']
+
 
 # Profit per cake (The Objective coefficients: c_j)
 profits = {
@@ -7,6 +9,8 @@ profits = {
     "Vanilla": 15
 }
 
+products 
+# change it
 # Total available resources (The Right-Hand Side limits: b_i)
 available_resources = {
     "Flour": 10,
