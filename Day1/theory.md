@@ -14,7 +14,7 @@ These are the blank boxes the algorithm gets to fill in. They represent the acti
 This is the single goal of the algorithm. It mathematically defines what "success" looks like, calculating a total score based on the values chosen for the Decision Variables.
 * **Notation:** $\max Z$ or $\min Z$
 * **Standard Form:** $$\max Z = \sum_{j=1}^{n} c_j x_j$$
-*(Where $c_j$ is the profit or cost associated with variable $x_j$)*
+*(Where $$c_j$$ is the profit or cost associated with variable $x_j$)*
 
 ## 3. Constraints (The Laws of Physics)
 These are the hard limits of reality. The solver must obey these rules while trying to maximize or minimize the Objective Function.
