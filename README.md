@@ -148,5 +148,3 @@ For 12 weeks (84 days), this repository will track daily progress from the micro
 * **Day 83:** **Human-in-the-Loop:** Translating veteran planner intuition into constraints.
 * **Day 84:** **Final Project:** Build and solve a complete end-to-end factory scheduling model.
 
----
-*Commit daily. Trust the process.*
